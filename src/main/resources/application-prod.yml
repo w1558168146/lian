@@ -1,0 +1,5 @@
+server:
+  port: 8082
+  context-path: /lian
+lian:
+  age: 18
