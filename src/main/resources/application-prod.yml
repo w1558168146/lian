@@ -3,3 +3,4 @@ server:
   context-path: /lian
 lian:
   age: 18
+  age: 30
